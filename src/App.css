@@ -1,0 +1,44 @@
+.app {
+    width: auto;
+    height: auto;
+    margin-top: 40px;
+}
+
+.container {
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+
+
+    color: aliceblue;
+
+}
+
+.marc {
+    width: 500px;
+    height: 400px;
+    background-color: rgb(19, 83, 243);
+    margin: auto;
+    font-size: 290px;
+    color: aliceblue;
+    font-family: monospace;
+    text-align: center;
+
+}
+
+.buttons {
+    margin: auto;
+
+
+}
+
+.button {
+    width: 100%;
+    font-size: 50px;
+}
+
+.mensaje {
+    color: brown;
+    text-align: center;
+}
